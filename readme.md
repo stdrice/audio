@@ -11,5 +11,4 @@ For 5128/Type 4.3
 
 # Headphones Target
 ## [stdrice Headphones Target](stdrice%20Headphones%20Target.txt)
-Bass is optional (The bass shelf is my preference for closed-back).
-![img](https://files.catbox.moe/a771zy.png)
+![img](https://files.catbox.moe/bcmr0g.png)
