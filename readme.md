@@ -8,3 +8,8 @@ For IEC-711/60318-4/Type 3.x
 ## [stdrice IEM 5128 Target](stdrice%20IEM%205128%20Target.txt)
 For 5128/Type 4.3
 ![img](https://files.catbox.moe/juvx51.png)
+
+# Headphones Target
+## [stdrice Headphones Target](stdrice%20Headphones%20Target.txt)
+Bass is optional (The bass shelf is my preference for closed-back).
+![img](https://files.catbox.moe/a771zy.png)
