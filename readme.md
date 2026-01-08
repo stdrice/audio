@@ -7,7 +7,7 @@ For IEC-711/60318-4/Type 3.x
 
 ## [stdrice IEM 5128 Target](stdrice%20IEM%205128%20Target.txt)
 For 5128/Type 4.3
-![img](https://files.catbox.moe/hhvcu7.png)
+![img](https://files.catbox.moe/mxm99l.png)
 
 # Headphones Target
 ## [stdrice Headphones Target](stdrice%20Headphones%20Target.txt)
