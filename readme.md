@@ -8,5 +8,5 @@
 
 # [stdrice Target](stdrice%20Target.txt)
 - IE/AE/OE target
-- For B&K 5128 (IE), IEC-711 (AE/OE)
+- For B&K 5128 (IE/AE/OE), IEC-711 (AE/OE)
 ![headphones](graph/headphones-target.png)
