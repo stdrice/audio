@@ -12,4 +12,4 @@ For 5128/Type 4.3.
 
 # Headphones Target
 ## [stdrice Headphones Target](stdrice%20Headphones%20Target.txt)
-![img](https://files.catbox.moe/ojm1b0.png)
+![img](https://files.catbox.moe/87aj92.png)
