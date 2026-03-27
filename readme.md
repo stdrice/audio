@@ -12,7 +12,7 @@
 ![headphones](graph/headphones-target.png)
 
 # Notes
-- These are neutral targets (flat to my ears). Bass and treble are optional.
+- These are neutral targets (natural or flat to my ears). Bass and treble are optional.
 - Intended for tonality/tuning comparison, not loudness matching.
 - IEMs are normalized at 1000 Hz, headphones at 900 Hz.
 - Personal reference, but can be used as a standard.
