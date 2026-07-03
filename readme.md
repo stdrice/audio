@@ -18,7 +18,3 @@
 # [experimental IEM 5128 Target](experimental%20IEM%205128%20Target.txt)
 - Same as above but for 5128
 ![ie3](graph/experimental-iem-5128-target.png)
-
-# Notes
-- These are neutral targets (natural or flat to my ears). Bass and treble are optional.
-- Personal reference, but can be used as a standard.
