@@ -1,6 +1,6 @@
 # Audio stuffs
 
-# [stdrice ie5128](stdrice%20ie5128%Target.txt)
+# [stdrice ie5128](stdrice%20ie5128%20Target.txt)
 - IE target.
 - For B&K 5128/Type 4.x.
 ![ie5128](graph/ie5128-target.png)
