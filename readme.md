@@ -1,11 +1,11 @@
 # Audio stuffs
 
-# [stdrice Target](stdrice%20Target.txt)
+# [yuurzi Target](yuurzi%20Target.txt)
 - IE/AE/OE target.
 - For B&K 5128/Type 4.x (IE/AE/OE), IEC60318-4 (AE/OE).
 ![ie5128](graph/headphones-target.png)
 
-# [stdrice ie Target](stdrice%20ie%20Target.txt)
+# [yuurzi ie Target](yuurzi%20ie%20Target.txt)
 - IE target.
 - For IEC-711/60318-4/Type 3.x.
 ![ie711](graph/ie-target.png)
